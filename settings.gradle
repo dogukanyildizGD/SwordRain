@@ -1,0 +1,2 @@
+rootProject.name='Sword Rain'
+include ':app'

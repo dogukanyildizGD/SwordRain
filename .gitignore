@@ -1,0 +1,44 @@
+### Android Studio ###
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/modules.xml
+/.idea/navEditor.xml
+/.idea/vcs.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+### Keystore Files ###
+*.jks
+*.keystore
+
+### Gradle Files ###
+/gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
+**/build/
+
+### Proguard Files ###
+proguard/
+
+### Log Files ###
+*.log
+
+### Android specific ###
+**/build/
+**/captures/
+output.json
+
+### IntelliJ ###
+*.ipr
+*.iws
+.idea/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
